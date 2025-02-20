@@ -1,6 +1,6 @@
 # 📊 Real-Time Sensor Monitoring Dashboard with Ubidots
 
-![Dashboard](Dashboard-Ubidots-SIC-6/dashboard-sic.jpg)
+![Dashboard](dashboard)
 
 Welcome to the **Real-Time Sensor Monitoring Dashboard** project! In this IoT (Internet of Things) system, an **Ultrasonic Sensor** and **DHT11 Sensor** are used to collect real-time environmental data, which is then visualized on a custom dashboard hosted on **Ubidots**. Data transmission is handled using the **MQTT** protocol, ensuring seamless, real-time updates for continuous monitoring.
 
